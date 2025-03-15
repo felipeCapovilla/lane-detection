@@ -1,4 +1,4 @@
-mport cv2
+import cv2
 import numpy as np
 
 video = cv2.VideoCapture("v01.MP4")  #Path to the video.
